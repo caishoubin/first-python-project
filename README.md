@@ -1,2 +1,2 @@
 # first-python-project
-python项目联系
+python项目练习
